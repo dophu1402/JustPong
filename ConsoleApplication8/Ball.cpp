@@ -4,7 +4,6 @@ Ball::Ball() {
 	ball.setRadius(0); // kích thước mặc định = 0
 }
 Ball::~Ball() {
-
 }
 
 Ball::Ball(float size) {
