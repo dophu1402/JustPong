@@ -1,7 +1,7 @@
 ﻿#pragma once
 #include "SFML/Graphics.hpp"
 #include <string>
-1
+
 #define MAX_NUMBER_OF_ITEMS 3
 #define const sf::Time Game::TimePerFrame  sf::seconds(1.f / 60.f)
 
