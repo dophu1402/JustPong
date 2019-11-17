@@ -1,5 +1,5 @@
 ﻿#include "Header.h"
-
+7
 int main() {
 	sf::RenderWindow window;
 	sf::Vector2i centerWindow((sf::VideoMode::getDesktopMode().width / 2) - 445, (sf::VideoMode::getDesktopMode().height / 2) - 480);//Lấy vị trí giữa màn hình
