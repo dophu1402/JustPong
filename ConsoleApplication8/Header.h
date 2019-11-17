@@ -1,6 +1,6 @@
 ﻿#pragma once
 #include <SFML/Graphics.hpp>
-#include "Paddle.h"7
+#include "Paddle.h"
 #include "Ball.h"
 #include "Wall.h"
 #include "Menu.h"
