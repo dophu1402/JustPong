@@ -1,5 +1,5 @@
 ﻿#include "Header.h"
-1
+
 //Vị trí mặc định
 void defaultPos(Paddle &paddle1, Paddle& paddle2, Ball& ball){
 	paddle1.setPos({ 50, 460 });
