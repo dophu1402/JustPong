@@ -1,5 +1,5 @@
 ﻿#pragma once
-
+7
 #include <SFML\Graphics.hpp>
 #include "Ball.h"
 #include "Paddle.h"
