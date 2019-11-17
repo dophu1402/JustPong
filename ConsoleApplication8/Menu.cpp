@@ -1,5 +1,5 @@
 ﻿#include "Menu.h"
-
+7
 Menu::Menu(float width, float height, std::string selectLine[], int amount){
 	amountOfItems = amount;
 	menu = new sf::Text[amount];
