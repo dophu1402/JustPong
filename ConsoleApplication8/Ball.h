@@ -14,4 +14,4 @@ public:
 	void setPos(sf::Vector2f newPos); //cài đặt vị trí
 	sf::Vector2f getPos(); //lấy vị trí hiện tại
 	float getRad(); //lấy bán kính
-};1
+};
