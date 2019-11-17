@@ -7,7 +7,7 @@ Paddle::Paddle() {
 void Paddle::setSize(sf::Vector2f size) {
 	paddle.setSize(size);//cài size
 }
-1
+
 Paddle::~Paddle() {
 
 }
